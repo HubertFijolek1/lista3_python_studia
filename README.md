@@ -26,15 +26,11 @@ Aplikacja wyświetlająca tekst 'Hello world'
   $ python main.py
   ```
 
-- Kontynuując pracę z projektem, aktywowanie hermetycznego środowiska dla aplikacji py:
-```
+- Kontynuując pracę z projektem, aktywowanie wirtualnego środowiska dla aplikacji py:
+  ```
   # deaktywacja
   $ deactivate
-  ```
-
-  ```
-  ...
-
+  
   # aktywacja 
   $ source my_venv/Scripts/activate
   ```
