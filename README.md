@@ -10,6 +10,8 @@ Aplikacja wyświetlająca tekst 'Hello world'
 
   # aktywowanie wirtualnego środowiska
   $ source my_venv/Scripts/activate
+
+  # instalacja potrzebnych bibliotek
   $ pip install -r requirements.txt
 
   # zobacz
@@ -24,7 +26,7 @@ Aplikacja wyświetlająca tekst 'Hello world'
   $ python main.py
   ```
 
--Kontynuując pracę z projektem, aktywowanie hermetycznego środowiska dla aplikacji py:
+- Kontynuując pracę z projektem, aktywowanie hermetycznego środowiska dla aplikacji py:
 ```
   # deaktywacja
   $ deactivate
